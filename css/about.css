@@ -14,6 +14,7 @@ body {
 		position: absolute;
 		top: 30%;
 		margin-left: 3%;
+		margin-top: 25px;
 	}
 	.abt{
 
@@ -37,6 +38,7 @@ body {
 		color:#fff;
 		padding: 20px;
 		font-size: 25px;
+		margin-top: 30px;
 	
 		
 	}
@@ -101,7 +103,7 @@ h5{
 }
 h6{
 	position: absolute;
-	top: 283%;
+	top: 281%;
 	left: 10%;
 	font-size: 20px;
 	color: 	#ff0000;
