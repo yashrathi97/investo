@@ -56,20 +56,12 @@ h4{
 
 	position: absolute;
 	top: 70%;
-	width: 500px;
+	width: 400px;
 	left: 5%;
 	box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
-	background: #DCDCDC;
+	background: #ff0000;
 	padding: 30px;
 	font-size: 20px;
 	color: #000;
-	font-family: CG Times;
 	margin: 8% auto 0;
-}
-.img2{
-	position: absolute;
-	top: 20%;
-	height: 100px;
-	width:150px;
-	margin-left: 30%;
 }
