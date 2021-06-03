@@ -1,0 +1,114 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: CG Times;
+
+}
+body {
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../abtbg2.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	}
+	.abt{
+
+    width: 300px;
+	padding: 20px;
+	margin: 2% ;
+	position: left;
+	color: #fff;
+	}
+	img{
+		position: absolute;
+		left: 40%;
+		width: 300px;
+		margin-top: 30px;
+	}
+	p{
+		position: absolute;
+		left: 5%;
+		right: 25%;
+		color:#fff;
+		padding: 20px;
+		font-size: 25px;
+		margin-top: 150px;
+		
+	}
+	.abt1{
+		position: absolute;
+		left: 75%;
+		height: 250px;
+		margin-top: 180px;
+	}
+
+h2{
+	position: absolute;
+	top: 110%;
+	width: 800px;
+	box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+	background: #ff0000;
+	padding: 30px;
+	color: #000;
+	font-size: 20px;
+	font-family: CG Times;
+	margin: 8% auto 0;
+}
+h3{
+	position: absolute;
+	top: 138%;
+	width: 800px;
+	box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+	background: #ff0000;
+	padding: 30px;
+	color: #000;
+	font-size: 20px;
+	font-family: CG Times;
+	margin: 8% auto 0;
+}
+h4{
+	position: absolute;
+	top: 166%;
+	width: 800px;
+	box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+	background: #ff0000;
+	padding: 30px;
+	font-size: 20px;
+	color: #000;
+	font-family: CG Times;
+	margin: 8% auto 0;
+}
+h5{
+	position: absolute;
+	top: 210%;
+	color: #fff;
+	font-size: 20px;
+
+}
+.img2{
+	position: absolute;
+	top: 215%;
+	left: 10%;
+}
+h6{
+	position: absolute;
+	top: 283%;
+	left: 10%;
+	font-size: 20px;
+	color: 	#ff0000;
+}
+.button1{
+	position: absolute;
+	top: 10%;
+	left: 90%;
+	transform: translate(-50%,-50%);
+
+}
+.btn1{
+	border: 1px solid #fff;
+	padding: 10px 30px;
+	color: #fff;
+	text-decoration: none;
+}
+.btn1:hover{
+	background-color: #fff;
+	color: #000;

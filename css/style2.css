@@ -74,8 +74,8 @@ body {
 	text-decoration: none;
 }
 .btn1:hover{
-	background-color: #ooo;
-	color: #fff;
+	background-color: #fff;
+	color: #000;
 }
 .fgtpass{
 	font-size: 15px;
